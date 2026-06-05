@@ -1,0 +1,21 @@
+# C3 Build Outputs
+build/
+packages/build/
+*.o
+*.a
+*.so
+*.dll
+
+# Project-specific ignores
+.env
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
